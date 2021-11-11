@@ -4,7 +4,7 @@ Exploratory Data Analysis on Olympics 1900-2016 with Data Visualization Project 
 
 Analysis on olympics data using python libraries processed by data analysis ,Feature engineering, Feature selection , Data visualization 
 
-Team name : Alliencas
+Team name : Alliance
 
 Kakarla Lahari <br />
 Chintapalli Mounika <br />
